@@ -1,5 +1,11 @@
-2026/04/20-19:30:49.480 6744 Creating DB C:/Users/phillip8/Documents/Unreal Projects/HeightMaps_Payton/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/20-19:30:49.488 6744 Reusing MANIFEST C:/Users/phillip8/Documents/Unreal Projects/HeightMaps_Payton/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/20-19:44:54.296 813c Level-0 table #5: started
-2026/04/20-19:44:54.300 813c Level-0 table #5: 76458 bytes OK
-2026/04/20-19:44:54.301 813c Delete type=0 #3
+2026/04/20-20:03:16.630 5eec Creating DB C:/Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/04/20-20:03:16.639 5eec Reusing MANIFEST C:/Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/20-20:19:27.442 b1a8 Level-0 table #5: started
+2026/04/20-20:19:27.445 b1a8 Level-0 table #5: 72102 bytes OK
+2026/04/20-20:19:27.447 b1a8 Delete type=0 #3
+2026/04/20-20:23:34.339 92d8 Level-0 table #7: started
+2026/04/20-20:23:34.342 92d8 Level-0 table #7: 69021 bytes OK
+2026/04/20-20:23:34.343 92d8 Delete type=0 #4
+2026/04/20-20:26:32.153 849c Level-0 table #9: started
+2026/04/20-20:26:32.163 849c Level-0 table #9: 68299 bytes OK
+2026/04/20-20:26:32.164 849c Delete type=0 #6
