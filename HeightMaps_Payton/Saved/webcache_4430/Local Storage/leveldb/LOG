@@ -1,2 +1,5 @@
-2026/04/29-11:53:16.802 8c30 Creating DB C:/Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/29-11:53:16.813 8c30 Reusing MANIFEST C:/Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/29-20:07:48.591 4d48 Reusing MANIFEST C:/Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/29-20:07:48.592 4d48 Recovering log #16
+2026/04/29-20:07:48.593 4d48 Level-0 table #19: started
+2026/04/29-20:07:48.597 4d48 Level-0 table #19: 78982 bytes OK
+2026/04/29-20:07:48.600 4d48 Delete type=0 #16

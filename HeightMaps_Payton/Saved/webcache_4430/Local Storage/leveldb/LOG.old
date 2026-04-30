@@ -1,0 +1,14 @@
+2026/04/29-18:52:47.305 990c Reusing MANIFEST C:/Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/29-18:52:47.310 990c Recovering log #12
+2026/04/29-18:52:47.310 990c Level-0 table #15: started
+2026/04/29-18:52:47.316 990c Level-0 table #15: 70754 bytes OK
+2026/04/29-18:52:47.318 990c Delete type=0 #12
+2026/04/29-18:52:47.319 9918 Compacting 4@0 + 1@1 files
+2026/04/29-18:52:47.325 9918 Generated table #17@0: 3 keys, 18105 bytes
+2026/04/29-18:52:47.325 9918 Compacted 4@0 + 1@1 files => 18105 bytes
+2026/04/29-18:52:47.325 9918 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/29-18:52:47.326 9918 Delete type=2 #7
+2026/04/29-18:52:47.326 9918 Delete type=2 #9
+2026/04/29-18:52:47.326 9918 Delete type=2 #11
+2026/04/29-18:52:47.326 9918 Delete type=2 #13
+2026/04/29-18:52:47.326 9918 Delete type=2 #15
