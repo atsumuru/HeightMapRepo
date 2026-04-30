@@ -13968,3 +13968,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.30-03.25.31:432][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 345.816254
 [2026.04.30-03.25.32:473][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.30-03.25.32:473][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.483032, Update Interval: 312.647491
+[2026.04.30-03.28.57:901][607]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.30-03.28.57:901][607]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.30-03.28.57:910][607]LogActorFactory: Actor Factory spawned Class /Script/Engine.PointLight as actor: PointLight /Game/Levels/HeightMap1.HeightMap1:PersistentLevel.PointLight_UAID_ACB4802E04F759D602_1888180143
+[2026.04.30-03.28.57:912][607]LogActorFactory: Actor Factory spawned Class /Script/Engine.PointLight as actor: PointLight /Game/Levels/HeightMap1.HeightMap1:PersistentLevel.PointLight_UAID_ACB4802E04F759D602_1888180143
+[2026.04.30-03.30.16:737][874]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.30-03.30.16:737][874]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.30-03.30.16:745][874]LogActorFactory: Actor Factory spawned Class /Script/Engine.PointLight as actor: PointLight /Game/Levels/HeightMap1.HeightMap1:PersistentLevel.PointLight_UAID_ACB4802E04F759D602_1967015144
+[2026.04.30-03.30.16:747][874]LogActorFactory: Actor Factory spawned Class /Script/Engine.PointLight as actor: PointLight /Game/Levels/HeightMap1.HeightMap1:PersistentLevel.PointLight_UAID_ACB4802E04F759D602_1967015144
+[2026.04.30-03.30.46:996][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 661.387085
+[2026.04.30-03.30.47:144][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.30-03.30.47:144][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 661.520569, Update Interval: 311.559814
+[2026.04.30-03.30.47:570][247]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.30-03.31.01:505][311]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.30-03.32.19:372][627]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.30-03.32.35:821][775]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.30-03.33.01:386][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-03.33.01:423][733]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/HeightMap1/3/YD/TRO3Y5OKSLDE4T3QZ333EY
+[2026.04.30-03.33.01:425][733]LogSavePackage: Moving '../../../../../../Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/TRO3Y5OKSLDE4T3QZ333EY030AF2364E40358D012CCBAD26DC5D99.tmp' to '../../../../../../Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Content/__ExternalActors__/Levels/HeightMap1/3/YD/TRO3Y5OKSLDE4T3QZ333EY.uasset'
+[2026.04.30-03.33.01:430][733]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/HeightMap1/4/W1/6NGOLRU8MUZT4WRP32A1V6
+[2026.04.30-03.33.01:432][733]LogSavePackage: Moving '../../../../../../Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/6NGOLRU8MUZT4WRP32A1V6FA5230BD4A9058055F68E9B4C6C33721.tmp' to '../../../../../../Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Content/__ExternalActors__/Levels/HeightMap1/4/W1/6NGOLRU8MUZT4WRP32A1V6.uasset'
+[2026.04.30-03.33.01:436][733]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/HeightMap1/7/RU/RIRLYRM6V1AATB2VPKHN87
+[2026.04.30-03.33.01:436][733]LogSavePackage: Moving '../../../../../../Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/RIRLYRM6V1AATB2VPKHN8733767FE24F031E2CC98D469227F28553.tmp' to '../../../../../../Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Content/__ExternalActors__/Levels/HeightMap1/7/RU/RIRLYRM6V1AATB2VPKHN87.uasset'
+[2026.04.30-03.33.01:440][733]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/HeightMap1/6/II/9EE0WB3H0KY5J7SBGP7GGP
+[2026.04.30-03.33.01:440][733]LogSavePackage: Moving '../../../../../../Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Saved/9EE0WB3H0KY5J7SBGP7GGP4CE6E5E64F6C9A29E6F745A005497BFB.tmp' to '../../../../../../Users/phillip8/Documents/GitHub/HeightMapRepo/HeightMaps_Payton/Content/__ExternalActors__/Levels/HeightMap1/6/II/9EE0WB3H0KY5J7SBGP7GGP.uasset'
+[2026.04.30-03.33.01:449][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.814 ms (total: 43.1 sec)
+[2026.04.30-03.33.01:484][733]LogContentValidation: Display: Starting to validate 4 assets
+[2026.04.30-03.33.01:484][733]LogContentValidation: Enabled validators:
+[2026.04.30-03.33.01:484][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-03.33.01:484][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-03.33.01:484][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-03.33.01:484][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-03.33.01:484][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-03.33.01:484][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-03.33.01:487][733]AssetCheck: /Game/Levels/HeightMap1 Validating asset
